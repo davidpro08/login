@@ -28,7 +28,7 @@ const process = {
         const response = user.register();
         return res.json(response);
     },
-}
+};
 
 
 module.exports = {
